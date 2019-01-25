@@ -11,3 +11,5 @@ How to run the project:
 
        * Import the project on eclipse with Maven project
        * You can run the project in three ways: (Running the Main class, running Maven Test or JUnit Test)
+
+The Design Data Model find in the file: transfer-module-data-model.jpg
