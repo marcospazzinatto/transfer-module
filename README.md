@@ -13,7 +13,8 @@ How to run the project:
        * You can run the project in three ways: (Running the Main class, running Maven Test or JUnit Test)
        
        
-How to run the project:  transfer-module.jar
+Run the JAR (transfer-module.jar):
+
        * Execute the command: "java -jar transfer-module.jar"
 
 The Design Data Model find in the file: transfer-module-data-model.jpg
